@@ -1,4 +1,7 @@
 NEW demo file has been created
  second new line
 
-havig some more changes in the file
+havig some more changes in the file.
+
+
+Including some new lines on this file that is very important
